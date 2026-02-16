@@ -3,9 +3,6 @@
 A Frontend Developer and DSA practitioner exploring AI-driven solutions and modern web technologies. I focus on building scalable web applications while strengthening core computer science fundamentals and problem-solving skills. Alongside software development, I have a strong interest in IoT and Robotics, aiming to bridge intelligent software with real-world hardware systems.
 
 ---
-<a href="https://www.linkedin.com/in/arhan-khan-cse/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Aren%-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 
 ## 💻 Tech Stack
