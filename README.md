@@ -1,29 +1,132 @@
+<div align="center">
+
 # 👋 Hey, I'm Aren
 
-A Frontend Developer and DSA practitioner exploring AI-driven solutions and modern web technologies. I focus on building scalable web applications while strengthening core computer science fundamentals and problem-solving skills. Alongside software development, I have a strong interest in IoT and Robotics, aiming to bridge intelligent software with real-world hardware systems.
+### 🚀 Full Stack Developer | Backend Systems | API & Database Design
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Systems;Scalable+API+Design;Database+Architecture)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
+## 🧠 Professional Summary
 
-## 💻 Tech Stack
+Full Stack Developer with hands-on experience building AI-powered web applications and real-time systems using React, Node.js, Express, and MongoDB. Strong focus on scalable backend architecture, API design, and performance optimization.
 
-<p align="left">
+---
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+# ⚡ TECH-STACKS
 
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
+## ⚡ Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js" width="65"/>
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
 </p>
+
+---
+
+## 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react" width="65"/>
+<img src="https://skillicons.dev/icons?i=html" width="65"/>
+<img src="https://skillicons.dev/icons?i=css" width="65"/>
+</p>
+
+---
+
+## ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" width="65"/>
+<img src="https://skillicons.dev/icons?i=express" width="65"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="65"/>
+</p>
+
+---
+
+## 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" width="65"/>
+<img src="https://skillicons.dev/icons?i=postgresql" width="65"/>
+<img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/xdj5mjdb3azktmqhdzto?ik-sanitizeSvg=true" height="50"/>
+</p>
+
+---
+
+## 🤖 Machine Learning
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/960px-NumPy_logo_2020.svg.png" height="50"/>
+<img src="https://i.imgur.com/eCtfX8e.png" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_kKvRE1s_6TvS9B7yNzZc7t3z7ynEQT2nXg&s" height="50"/>
+<img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" height="50"/>
+
+
+---
+
+## 🚀 Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=vercel" width="65"/>
+<img src="https://repository-images.githubusercontent.com/543813098/366e0eef-a3e8-4953-afc3-88c6e2ed954f" height="50"/>
+<img src="https://railway.app/brand/logo-light.svg" height="50"/>
+</p>
+
+---
+
+## 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git" width="65"/>
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
+<img src="https://skillicons.dev/icons?i=postman" width="65"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="65"/>
+</p>
+
+---
+
+## 🧩 Core Concepts
+
+- REST API Design  
+- Authentication (JWT)  
+- WebSockets & Real-time Systems  
+- Backend Development  
+- Database Design  
+
+---
+
+## 🚀 Featured Project
+
+### 🔥 Synvex – Next Gen Interview Prep System
+
+- AI-powered mock interviews  
+- Real-time feedback system  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arenforge&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arenforge&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/arenforge">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+<a href="mailto:arhankhancse@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=arenforge&label=Profile%20Views&color=0e75b6&style=flat)
+
+### ⚡ Code with intent. Build systems that scale.
+
+</div>
