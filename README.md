@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Aren
+# 👋 Hey, I'm Arhan
 
 ### 🚀 Full Stack Developer · Backend Systems · API & Database Design
 
