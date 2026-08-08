@@ -30,6 +30,11 @@ Full Stack Developer with hands-on experience building AI-powered web applicatio
       <img src="https://skillicons.dev/icons?i=python" width="52" /><br/>
       <sub><b>Python</b></sub>
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=go" width="52" /><br/>
+      <sub><b>Go</b></sub>
+    </td>
+    
   </tr>
 </table>
 
